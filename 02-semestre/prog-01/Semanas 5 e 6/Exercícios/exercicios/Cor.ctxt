@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cor
+comment1.params=r\ g\ b
+comment1.target=Cor(int,\ int,\ int)
+comment2.params=
+comment2.target=Cor()
+comment3.params=
+comment3.target=int\ getR()
+comment4.params=r
+comment4.target=void\ setR(int)
+comment5.params=
+comment5.target=int\ getG()
+comment6.params=g
+comment6.target=void\ setG(int)
+comment7.params=
+comment7.target=int\ getB()
+comment8.params=b
+comment8.target=void\ setB(int)
+numComments=9

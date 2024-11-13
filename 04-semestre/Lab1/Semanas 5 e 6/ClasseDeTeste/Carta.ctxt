@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Carta
+comment1.params=naipe\ valor\ simbolo
+comment1.target=Carta(java.lang.String,\ int,\ char)
+comment2.params=
+comment2.target=java.lang.String\ getNaipe()
+comment3.params=naipe
+comment3.target=void\ setNaipe(java.lang.String)
+numComments=4

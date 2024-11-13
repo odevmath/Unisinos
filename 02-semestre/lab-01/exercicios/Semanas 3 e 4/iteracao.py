@@ -1,0 +1,4 @@
+x  = ''
+nome = " "
+altura = " "
+opcao = " "
